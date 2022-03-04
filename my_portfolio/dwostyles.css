@@ -1,0 +1,130 @@
+@charset "UTF-8";
+body {
+    color: #191919;
+    font-famliy: "Gil Sans MT", "Myriag Pro", "DejaVuSans Condesed"
+	sans-serif;
+    font-size: 14px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(project%202/images/tan_bg2.jpg);
+}
+
+
+header {
+    width: 768px;
+    height: 250px;
+    background-color: #72513C;
+    background-image: url(logo.jpg);
+}
+p {
+    font-weight: 400;
+    font-size: 24px;
+    background-color: #72513B;
+    font-style: normal;
+}
+img {
+	text-align:left;
+    float: left;
+	 padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#container{
+    width: 768px;
+    height: auto;
+    margin: auto;
+	background-color:#72513C;
+}
+   
+main{
+	 height: 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-size: 14pt;
+    width: 598px;
+    text-align: left;
+    float: left;
+	background-color:#72513C;
+}
+aside {
+    width: 150px;
+    height: 600px;
+    text-align: left;
+}body aside {
+    width: 150px;
+    float: left;
+    background-color: #96672C;
+    height: 600px;
+    clear: both;  
+}
+
+
+h1 {
+    font-size: xx-large;
+    background-color: #72513C;
+}
+
+nav {
+    width: 768px;
+    height: 50px;
+    float: left;
+   
+}
+
+
+#container nav li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    margin-left: 0px;
+    margin-right: 60px;
+    font-size: 18px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#container nav li {
+    width: 565px;
+    margin: auto;
+}
+
+
+nav a:link {
+   
+    color: #000000;
+    font-weight: bold;
+}
+nav a:hover {
+	color: #000000;
+	text-decoration: none;
+	background-color: #000000;
+	border-radius: 20px;
+}
+nav a:hover {
+	color:#000000;
+	text-decoration: none;
+	background-color:#72531B;
+	border-radius: 20px;
+		
+}
+nav a:visted {
+	color: #000000;
+	text-decoration:none;
+}
+nav a:active {
+	color:#000000;
+	text-decoration:none;
+}
+
+
+
+article {
+	  margin-bottom: 30px;
+}
